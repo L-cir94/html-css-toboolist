@@ -74,13 +74,12 @@ button {
     border-color: white;
     color: white;
 }
-
+.check
 #button2 {
     color: rgb(246, 200, 140);
     border-color: rgb(246, 200, 140);
 }
-.task{
-    display: inline-block;
+.task{    display: inline-block;
 }
 .divx{
         border: solid;
@@ -90,5 +89,5 @@ button {
         vertical-align: middle;
         width: auto;
         border-radius: 15px;
-        padding: 8px;
+        padding: 5px;
     }
