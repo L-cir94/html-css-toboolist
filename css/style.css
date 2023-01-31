@@ -43,20 +43,23 @@ img {
     border: solid;
     background-color: white;
     border-radius: 3px;
-    
+
 }
-h3{
+
+h3 {
     color: rgb(1, 1, 71);
     line-height: 1.6;
     margin-top: 20px;
     margin-left: 30px;
 
 }
-p{
-   color: rgb(1, 1, 71);
-   line-height: 1.6;
-   margin-left: 30px;
+
+p {
+    color: rgb(1, 1, 71);
+    line-height: 2.6;
+    margin-left: 30px;
 }
+
 main {
     margin-left: 100px;
     margin-right: 100px;
@@ -78,30 +81,36 @@ button {
 #button2 {
     color: rgb(246, 200, 140);
     border-color: rgb(246, 200, 140);
+    background-color: white;
 }
-.task{    display: inline-block;
+
+.task {
+    display: inline-block;
 }
-.divx{
-        border: solid;
-        color:white;
-        background-color: rgb(68, 140, 255);
-        display: inline-block;
-        vertical-align: middle;
-        width: auto;
-        border-radius: 15px;
-        padding: 5px;
-    }
-.noncheck{
+
+.divx {
+    border: solid;
+    color: white;
+    background-color: rgb(68, 140, 255);
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.check.no {
     color: red;
     border: solid;
     border-radius: 100%;
-    padding-left: 3px ;
-    padding-right: 3px ;
+    padding-left: 3px;
+    padding-right: 3px;
 }
-.check{
-    color:greenyellow;
+
+.check {
+    color: greenyellow;
     border: solid;
     border-radius: 100%;
-    padding-left: 3px ;
-    padding-right: 3px ;
+    padding-left: 3px;
+    padding-right: 3px;
 }
