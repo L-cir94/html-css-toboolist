@@ -74,7 +74,7 @@ button {
     border-color: white;
     color: white;
 }
-.check
+
 #button2 {
     color: rgb(246, 200, 140);
     border-color: rgb(246, 200, 140);
@@ -91,3 +91,17 @@ button {
         border-radius: 15px;
         padding: 5px;
     }
+.noncheck{
+    color: red;
+    border: solid;
+    border-radius: 100%;
+    padding-left: 3px ;
+    padding-right: 3px ;
+}
+.check{
+    color:greenyellow;
+    border: solid;
+    border-radius: 100%;
+    padding-left: 3px ;
+    padding-right: 3px ;
+}
