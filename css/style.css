@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+header{
+  background-color: white;
+  height: 2rem;  
+}
+body{
+    background-color: antiquewhite;
+}
+.logo-title{
+    color:rgb(1, 1, 71) ;
+   background: white;
+   font-size: larger;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    background-color: white;
+
+}
+ img{
+vertical-align: middle;
+ } 
+.container{
+    width: 100%;
+
+    color: white;
+    border: solid;
+    margin-top: 50px;
+}  
+main{
+    margin-left: 100px;
+    margin-right:100px;
+}
