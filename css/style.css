@@ -1,34 +1,64 @@
-*{
+* {
     margin: 0;
 }
-header{
-  background-color: white;
-  height: 2rem;  
+
+header {
+    background-color: white;
+    height: 2rem;
 }
-body{
+
+body {
     background-color: antiquewhite;
 }
-.logo-title{
-    color:rgb(1, 1, 71) ;
-   background: white;
-   font-size: larger;
-   font-family:Georgia, 'Times New Roman', Times, serif;
+
+.logo-title {
+    color: rgb(1, 1, 71);
+    background: white;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.logo{
+
+.logo {
     background-color: white;
 
 }
- img{
-vertical-align: middle;
- } 
-.container{
-    width: 100%;
 
+img {
+    vertical-align: middle;
+}
+
+.container {
+    width: 100%;
     color: white;
     border: solid;
     margin-top: 50px;
-}  
-main{
+    background-color: white;
+    border-radius: 3px;
+}
+.container-2{
+    margin-top: 2px;
+    width: 100%;
+    color: white;
+    border: solid;
+    background-color: white;
+    border-radius: 3px;
+}
+main {
     margin-left: 100px;
-    margin-right:100px;
+    margin-right: 100px;
+}
+button{
+    padding: 5px;
+    border-radius: 4px;
+
+}
+#button1{
+margin-left: 20px; 
+background-color: rgb(68, 140, 255);   
+border-color: white;
+color: white;
+}
+#button2{
+color: rgb(246, 200, 140);
+border-color:rgb(246, 200, 140);
 }
