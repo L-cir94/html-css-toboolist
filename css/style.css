@@ -79,3 +79,16 @@ button {
     color: rgb(246, 200, 140);
     border-color: rgb(246, 200, 140);
 }
+.task{
+    display: inline-block;
+}
+.divx{
+        border: solid;
+        color:white;
+        background-color: rgb(68, 140, 255);
+        display: inline-block;
+        vertical-align: middle;
+        width: auto;
+        border-radius: 15px;
+        padding: 8px;
+    }
